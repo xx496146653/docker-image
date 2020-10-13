@@ -1,1 +1,1 @@
-FROM jumpserver/jms_mysql:v2.3.0
+FROM jumpserver/jms_all:v2.3.2
